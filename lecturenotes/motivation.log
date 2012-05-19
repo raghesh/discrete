@@ -1,0 +1,59 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2010.9.30)  14 MAY 2012 19:32
+entering extended mode
+ %&-line parsing enabled.
+**motivation.tex
+(./motivation.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./motivation.aux)
+\openout1 = `motivation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+
+[1
+
+] (./motivation.aux) ) 
+Here is how much of TeX's memory you used:
+ 222 strings out of 95087
+ 2387 string characters out of 1183278
+ 46030 words of memory out of 1500000
+ 3472 multiletter control sequences out of 10000+50000
+ 6675 words of font info for 24 fonts, out of 1200000 for 2000
+ 28 hyphenation exceptions out of 8191
+ 23i,6n,17p,194b,187s stack positions out of 5000i,500n,6000p,200000b,5000s
+
+Output written on motivation.dvi (1 page, 416 bytes).
